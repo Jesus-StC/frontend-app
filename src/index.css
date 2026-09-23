@@ -8,6 +8,7 @@
 
 body {
   font-family: var(--font-family-sans);
+  box-sizing: border-box; /*CAMBIO PARA rama1*/
   margin: 0;
 }
 
