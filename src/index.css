@@ -10,6 +10,7 @@ body {
   font-family: var(--font-family-sans);
   box-sizing: content-box;
   margin: 0;
+  background-color: aqua;
 }
 
 @keyframes fadeSlideIn {
