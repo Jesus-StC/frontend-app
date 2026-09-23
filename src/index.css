@@ -8,6 +8,7 @@
 
 body {
   font-family: var(--font-family-sans);
+  box-sizing: content-box;
   margin: 0;
 }
 
